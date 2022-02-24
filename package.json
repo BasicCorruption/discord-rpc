@@ -5,6 +5,7 @@
   "homepage": "https://basiccorruption.github.io",
   "main": "rpc.js",
   "dependencies": {
-    "discord-rpc": "*"
+    "discord-rpc": "*",
+    "dotenv": "*"
   }
 }
