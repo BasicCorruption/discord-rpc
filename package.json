@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "A template for making your Discord rich presence",
   "homepage": "https://basiccorruption.github.io",
-  "main": "rpc.js"
+  "main": "rpc.js",
+  "dependencies": {
+    "discord-rpc": "*"
+  }
 }
