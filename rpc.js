@@ -7,10 +7,10 @@ dotenv.config();
 
 function config() {
   return {
-    details: "",
-    state: "",
-    largeImageKey: "",
-    largeImageText: ""
+    details: "CHANGE_ME",
+    state: "CHANGE_ME",
+    largeImageKey: "CHANGE_ME",
+    largeImageText: "CHANGE_ME"
   }
 }
 
